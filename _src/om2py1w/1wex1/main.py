@@ -17,7 +17,7 @@ def print_history():
 		print 50 * '*'
 		print u"以上是历史记录，请在'>>'后输入新内容"
 	else:
-		print u'你的日记还没有记录,请在提示符后输入内容，ENTER直接退出！'
+		print u'还没有记录,请在提示符后输入内容，ENTER直接退出！'
 		write_your_note()
 	
 def write_your_note():
