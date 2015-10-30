@@ -13,4 +13,4 @@
     再次运行系统时，能打印出过往的所有笔记    
 
 ## 使用方法  
-* 命令行下python main.py(path:~/OMOOC2py/_src/om2py0w/0wex1) 或 直接双击
+* 命令行下python main.py(path:~/OMOOC2py/_src/om2py1w/1wex0) 或 直接双击
