@@ -1,0 +1,14 @@
+## 内网日记
+- 日记基于UDP协议，C/S模式
+- 测试环境
+    - win7
+    - powershell
+    - sublime text 3
+- 使用方法
+    - python server.py
+    - pyhton client.py
+-注意事项
+    - [h] 打印历史记录
+    - [q] 关闭服务端
+    - [ENTER] 直接回车键关闭客户端 
+    - 服务器同路径下存有一个命名为'socket_daily.log'的日记文本
